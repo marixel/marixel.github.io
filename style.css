@@ -1,0 +1,7 @@
+.lesson-block {
+  background-color: #f2f2f2;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+  cursor: move;
+}
